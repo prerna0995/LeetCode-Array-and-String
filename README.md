@@ -96,4 +96,4 @@ Conclusion
     
 - **Move Zeros**  
     [LeetcodeQuestion](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1174/) \
-    [Solution](https://github.com/prerna0995/LeetCode-Array-and-String/tree/main/Conclusion)      
+    [Solution](https://github.com/prerna0995/LeetCode-Array-and-String/blob/main/Conclusion/MoveZeros.java)      
